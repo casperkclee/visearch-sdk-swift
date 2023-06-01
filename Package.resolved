@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "visenze-tracking-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/casperkclee/visenze-tracking-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "2b024aad12edbccdbd262767b6d104dc9ec316b7"
+      }
+    }
+  ],
+  "version" : 2
+}
